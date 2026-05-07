@@ -49,7 +49,7 @@ Output: "alGalooG"
 
 ---
 
-## ⚡ C++ Solution (Copy-Paste Ready)
+## ⚡ C++ Solution 
 
 ```cpp
 class Solution {
