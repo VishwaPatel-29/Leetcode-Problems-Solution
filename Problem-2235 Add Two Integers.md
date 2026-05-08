@@ -31,13 +31,13 @@ Explanation: num1 + num2 = -6, so -6 is returned.
 ## ⚡ C++ Solution (Copy-Paste Ready)
 
 ```cpp
-class Solution{
+class Solution {
 public:
-    int sum(int num1,int num2){
-        int result = num1 + num2;
-        return result;
+    int sum(int num1, int num2) {
+        return num1 + num2;
     }
 };
+// 33,19 -> 33+19 = 52
 ```
 
 ---
