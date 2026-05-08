@@ -51,19 +51,26 @@ public:
     int subtractProductAndSum(int n) {
         int product = 1;
         int sum = 0;
-
         while(n > 0){
             int digit = n % 10;
-
-            product *= digit;
-            sum += digit;
-
+            product = product * digit;
+            sum = sum + digit;
             n = n / 10;
         }
-
         return product - sum;
     }
 };
+// n = 234 product = 1 sum = 0 
+// digit = 4 
+// product = 1*4 = 4 
+// sum = 0 + 4 = 4 
+// digit = 3 
+// product = 4*3 = 12
+// sum 4 + 3 = 7 
+// digit = 2
+// product = 12*2 = 24
+// sum = 7 + 2 = 9
+// subtraction = 24 - 9 = 15
 ```
 
 ---
