@@ -16,9 +16,6 @@
 </p>
 
 </div>
-### 🚀 Clean C++ Solutions • Beginner Friendly • YouTube Explained
-
-</div>
 ### 🚀 Daily LeetCode Solutions With Clean C++ Code & YouTube Explanations
 
 </div>
