@@ -2,13 +2,20 @@
 
 # 🧠 LeetCode Solutions By Vishwa Patel
 
-![C++](https://img.shields.io/badge/C%2B%2B-DSA_Solutions-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-40_Problems-FFA116?style=flat-square&logo=leetcode&logoColor=black)
-![GitHub Repo stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME?style=flat-square)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCXXXXXXXXXX?style=flat-square&logo=youtube)
-![Maintained](https://img.shields.io/badge/Maintained-Yes-success?style=flat-square)
+<h3>🚀 Solving LeetCode Daily With Clean & Easy C++ Solutions</h3>
 
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Beginner+Friendly+DSA+Solutions;Daily+LeetCode+Practice;C%2B%2B+Coding+Journey;YouTube+Explanations+Available" />
+</p>
+
+<p>
+  🌟 Beginner Friendly &nbsp; • &nbsp;
+  💻 C++ Solutions &nbsp; • &nbsp;
+  🎥 YouTube Explained &nbsp; • &nbsp;
+  🚀 Daily Uploads
+</p>
+
+</div>
 ### 🚀 Clean C++ Solutions • Beginner Friendly • YouTube Explained
 
 </div>
