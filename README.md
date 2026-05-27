@@ -2,11 +2,16 @@
 
 # 🧠 LeetCode Solutions By Vishwa Patel
 
-<img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=cplusplus" />
-<img src="https://img.shields.io/badge/Problems_Solved-40-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/YouTube-Explained-red?style=for-the-badge&logo=youtube" />
-<img src="https://img.shields.io/badge/Level-Beginner_to_Intermediate-orange?style=for-the-badge" />
+![C++](https://img.shields.io/badge/C%2B%2B-DSA_Solutions-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-40_Problems-FFA116?style=flat-square&logo=leetcode&logoColor=black)
+![GitHub Repo stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME?style=flat-square)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCXXXXXXXXXX?style=flat-square&logo=youtube)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-success?style=flat-square)
 
+### 🚀 Clean C++ Solutions • Beginner Friendly • YouTube Explained
+
+</div>
 ### 🚀 Daily LeetCode Solutions With Clean C++ Code & YouTube Explanations
 
 </div>
